@@ -22,8 +22,14 @@ json-server --watch api-artists/artists.json --port 3000
 
 <div align="center">
   <h1>Instrutores e Instrutoras</h1>
+  <div align="center">
+ 
+| [<img src="" width=115><br><sub>Alexandre Aquiles</sub>](https://github.com/alexandreaquiles) |  [<img src="" width=115><br><sub></sub>](https://github.com/jacqueline-oliveira) |  [<img src="" width=115><br><sub></sub>](https://github.com/peas) |
+| :---: | :---: | :---: |
+
+</div>
 </div>
 
 <div class="footer-hashtag" align="center">
-  <p>#ImersaoFrontEnd</p>
+  <p>#ImersaoFrontEnd💙</p>
 </div>
