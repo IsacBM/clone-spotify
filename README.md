@@ -18,7 +18,27 @@ json-server --watch api-artists/artists.json --port 3000
 
 ---
 
-## Resultado Final do Projeto:
+## • Resultado Final do Projeto:
+
+#### - Dashboard:
+
+<div class="imagens">
+  <img src="https://github.com/IsacBM/clone-spotify/blob/main/src/assets/icons/Zackfy-alura.png" alt="Imagem do menu do projeto">
+
+---
+
+#### - Menu de Busca Artistas/Músicas:
+  
+  <img src="https://github.com/IsacBM/clone-spotify/blob/main/src/assets/icons/Zackfy-alura-pesquisa.png" alt="Imagem do menu de busca">
+</div>
+
+<h4 align="center">Visualize o Projeto Aqui! 🤠</h4>
+
+<p align="center">
+ <a href="" target="_blank"><img align="center" alt="Isac-PYTHON" height="40" width="105" src="https://img.shields.io/badge/visualizar-1db954?style=for-the-badge&logo=visualizar&logoColor=#00C7B7" target="_blank"></a>
+</p>
+
+---
 
 <div align="center">
   <h1>Instrutores e Instrutoras</h1>
