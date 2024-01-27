@@ -27,7 +27,7 @@ json-server --watch api-artists/artists.json --port 3000
 
 ---
 
-#### - Menu de Busca Artistas/Músicas:
+#### - Menu de Busca dos Artistas e/ou Músicas:
   
   <img src="https://github.com/IsacBM/clone-spotify/blob/main/src/assets/icons/Zackfy-alura-pesquisa.png" alt="Imagem do menu de busca">
 </div>
