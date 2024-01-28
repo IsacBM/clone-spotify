@@ -35,7 +35,7 @@ json-server --watch api-artists/artists.json --port 3000
 <h4 align="center">Visualize o Projeto Aqui! 🤠</h4>
 
 <p align="center">
- <a href="" target="_blank"><img align="center" alt="Isac-PYTHON" height="40" width="105" src="https://img.shields.io/badge/visualizar-1db954?style=for-the-badge&logo=visualizar&logoColor=#00C7B7" target="_blank"></a>
+ <a href="https://zackfy.netlify.app/index-main.html" target="_blank"><img align="center" alt="Isac-PYTHON" height="40" width="105" src="https://img.shields.io/badge/visualizar-1db954?style=for-the-badge&logo=visualizar&logoColor=#00C7B7" target="_blank"></a>
 </p>
 
 ---
